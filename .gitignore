@@ -1,0 +1,37 @@
+# Files
+/app/config/parameters.yml
+/behat.yml
+/phpunit.xml
+/phpspec.yml
+/.web-server-pid
+
+# Directories
+/web/assets
+/web/bundles
+/web/css
+/web/js
+/var/*
+/vendor
+/node_modules
+/web/upload/*
+
+# Bin
+/bin/*
+!/bin/console
+docker
+
+# Ide's
+.idea
+
+# CI
+/etc/build/*
+
+# Deploy
+phploy.ini
+
+# Upload
+/web/media/cache/xs/*
+/web/media/cache/sm/*
+/web/media/cache/md/*
+/web/media/cache/lg/*
+!.gitkeep
