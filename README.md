@@ -1,4 +1,18 @@
-sf34
-====
+<h3 align="center">
+    <p>
+        Master: 
+        <a href="https://travis-ci.org/nugato/nucms" title="Build status" target="_blank">
+            <img src="https://travis-ci.org/nugato/nucms.svg?branch=master" />
+        </a>
+        <br>
+        Dev:
+        <a href="https://travis-ci.org/nugato/nucms" title="Build status" target="_blank">
+            <img src="https://travis-ci.org/nugato/nucms.svg?branch=develop" />
+        </a>
+    </p> 
+</h1>
 
-A Symfony project created on July 17, 2018, 8:51 pm.
+nucms - standard edition
+=====
+
+Starter pack for nucms
