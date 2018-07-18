@@ -1,7 +1,18 @@
 {
-    "name": "ubuntu/sf34",
-    "license": "proprietary",
+    "name": "nugato/nucms-standard",
     "type": "project",
+    "description": "Cms platform for PHP, based on Symfony framework and Sylius components",
+    "license": "MIT",
+    "homepage": "http://www.nugato.pl",
+    "authors": [
+        {
+            "name": "Jacek Bednarek"
+        },
+        {
+            "name": "Nugato Company",
+            "homepage": "http://www.nugato.pl"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle"
