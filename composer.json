@@ -1,6 +1,18 @@
 {
+    "name": "nugato/nucms-standard",
     "type": "project",
-    "license": "proprietary",
+    "description": "Cms platform for PHP, based on Symfony framework and Sylius components",
+    "license": "MIT",
+    "homepage": "http://www.nugato.pl",
+    "authors": [
+        {
+            "name": "Jacek Bednarek"
+        },
+        {
+            "name": "Nugato Company",
+            "homepage": "http://www.nugato.pl"
+        }
+    ],
     "require": {
         "php": "^7.1.3",
         "ext-ctype": "*",
