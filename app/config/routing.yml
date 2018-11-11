@@ -1,2 +1,0 @@
-nugato_nucms:
-    resource: "@NugatoNuCmsBundle/Resources/config/routing.yml"
