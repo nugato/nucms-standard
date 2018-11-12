@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c13d907bf66e8e4c0648cb0d5d268ae4",
+    "content-hash": "2c579875bd347af03d136dfc5d5e54ad",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -2494,16 +2494,16 @@
         },
         {
             "name": "nugato/nucms",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nugato/nucms.git",
-                "reference": "b0136230a4ed4f5ed4627fd0753d98fb1c6f38b2"
+                "reference": "eeaa2a90ac8c3ad765ca1bf2628d8778490ac83a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nugato/nucms/zipball/b0136230a4ed4f5ed4627fd0753d98fb1c6f38b2",
-                "reference": "b0136230a4ed4f5ed4627fd0753d98fb1c6f38b2",
+                "url": "https://api.github.com/repos/nugato/nucms/zipball/eeaa2a90ac8c3ad765ca1bf2628d8778490ac83a",
+                "reference": "eeaa2a90ac8c3ad765ca1bf2628d8778490ac83a",
                 "shasum": ""
             },
             "require": {
@@ -2600,7 +2600,7 @@
             ],
             "description": "Cms platform for PHP, based on Symfony framework and Sylius components",
             "homepage": "http://www.nugato.pl",
-            "time": "2018-11-11T15:47:28+00:00"
+            "time": "2018-11-12T10:45:26+00:00"
         },
         {
             "name": "ocramius/package-versions",
